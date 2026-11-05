@@ -1,0 +1,1000 @@
+   38  ls -lrt
+   39  matlab -nodesktop
+   40  cd /opt/matlab/r2024b/licenses/
+   41  pwd
+   42  ls
+   43  ls -la
+   44  nano network.lic 
+   45  cd /opt/matlab/r2024b/licenses/
+   46  ls
+   47  nano license.dat
+   48  ls -lrt
+   49  cd /home/abatz/.matlab/R2024b/
+   50  ls
+   51  cd ddux/
+   52  ks
+   53  ls
+   54  cd ../fop/
+   55  ls
+   56  cd ..
+   57  cd 
+   58  matlab -nodesktop
+   59  top
+   60  matlab -nodesktop
+   61  top
+   62  matlab -nodesktop
+   63  exit
+   64  top
+   65  matlab -nodesktop
+   66  top
+   67  ls-lrt
+   68  ls -lrt
+   69  cd /data/fire/Fsim/
+   70  ls -lrt
+   71  cd observations/
+   72  ls-lrt
+   73  ls -lrt
+   74  nano runsmoke_all2.m 
+   75  nano smokespread.m 
+   76  nano modelyearspm.m 
+   77  nano runsmoke_all2.m 
+   78  top
+   79  nano runsmoke_all2.m 
+   80  gedit modelyearspm.m &
+   81  exit
+   82  top
+   83  ls -lrt
+   84  cd /data/backups/home_pluvial_abatz/CROPS/
+   85  ls -lrt
+   86  nano runolives.m 
+   87  gedit oliverun.m &
+   88  matlab -nodesktop
+   89  ls
+   90  ls 
+   91  cd mtbs_cdl/
+   92  ls
+   93  ls -lrt
+   94  unzip drive-download-20260107T194609Z-3-001.zip
+   95  rm drive-download-20260107T194609Z-3-001.zip
+   96  ls *2023*
+   97  unzip drive-download-20260107T200959Z-3-001.zip
+   98  ls -lrt
+   99  ls -lrt
+  100  cd /data/backups/home_pluvial_abatz/CROPS/
+  101  ls -lrt
+  102  gedit oliverun.m &
+  103  matlab -nodesktop
+  104  top
+  105  ls  -lrt
+  106  cd mtbs_cdl/
+  107  ls -lrt
+  108  ls -lrt *.m
+  109  nano combineTIF_coarsen.m 
+  110  ls -lrt *.mat
+  111  ls -lrt
+  112  ls -lrt *.m
+  113  nano aggregatefire.m 
+  114  cd perimeters/
+  115  ls
+  116  ls -lrt
+  117  cd ..
+  118  ls -lrt
+  119  ls -lrt *.m
+  120  nano untitled2_w.m 
+  121  nano burnagstats.m 
+  122  nano get_ind_firedata.m 
+  123  cd perimeters/
+  124  s
+  125  ls
+  126  ls -lrt
+  127  nano mtbs_perims_DD.dbf
+  128  cd ..
+  129  ls -lrt
+  130  nano untitled2_w.m 
+  131  cd /data/backups/home_pluvial_abatz/CROPS/
+  132  ls -lrt
+  133  gedit oliverun.m &
+  134  matlab -nodesktop
+  135  cd /data/fire/MODIS/Daily\ BA/
+  136  ls -lrt
+  137  matlab -nodesktop
+  138  ls -lrt
+  139  cd /data/backups/home_pluvial_abatz/TerraClimate/WORLDCLIM/
+  140  ls -lrt
+  141  cd CLEANCODE/
+  142  ls -lrt 
+  143  ls -lrt *.m
+  144  nano runit_newyear_fromanom.m 
+  145  nano runvpd.m 
+  146  gedit runit_newyear_fromanom.m &
+  147  exit
+  148  cd /data/backups/home_pluvial_abatz/CROPS/
+  149  ls -lrt
+  150  gedit oliverun.m &
+  151  top
+  152  ls -lrt
+  153  cd CAH2O/
+  154  ls -lrt
+  155  gedit process_cah2o_ensemble_update.m &
+  156  matlab -nodesktop
+  157  ls -lrt
+  158  nano forecasted_wyi.json 
+  159  ls -lrt
+  160  matlab -nodesktop
+  161  ls -lrt
+  162  cd 
+  163  cd /data/fire/Fsim/
+  164  ls
+  165  ls -lrt
+  166  cd ecostacks
+  167  ls
+  168  ls -lrt
+  169  ls -lrt *Month12*
+  170  pwd
+  171  cd ..
+  172  ls -lrt
+  173  cd ..
+  174  ls -lrt
+  175  cd Fsim
+  176  ls
+  177  cd ecostacks/
+  178  ls
+  179  ls *Month12*
+  180  cd /data/users/cyin/5_fire/
+  181  ls
+  182  cd Global_Fire_Atlas/
+  183  ls
+  184  cd 1_SHP_perimeters_speed/
+  185  ls
+  186  ls -lrt
+  187  matlab -nodesktop
+  188  cd /data/fire/Fsim/
+  189  ls -lrt *.csv
+  190  cd 
+  191  ls -lrt
+  192  cd /data/backups/home_pluvial_abatz/FIREDANGER/CFFDRS/
+  193  ls -lrt *.m
+  194  gedit runERA5land_counter_climateonly.m &
+  195  gedit grabdataERA5LAND_counterfactualwx.m &
+  196  matlab -nodesktop
+  197  cd /data/obs/reanalysis/ecmwf/era5
+  198  ls
+  199  cd SFC/
+  200  ls
+  201  ls -lrt *.m
+  202  nano summarizeyearERA5.m 
+  203  nano summarizeyearERA5_up.m 
+  204  gedit summarizeyearERA5.m &
+  205  ls
+  206  ls -lrt
+  207  ls
+  208  cd 
+  209  ls -lrt
+  210  cd ERA5/
+  211  ls -lrt
+  212  ls -lrt *.py
+  213  nano download22.py 
+  214  python download22.py 
+  215  python3.11 download22.py 
+  216  ls -lrt
+  217  nano download22.py 
+  218  python3.11 download22.py 
+  219  ls -lrt
+  220  nano download22.py 
+  221  python3.11 download22.py 
+  222  ls -lrt
+  223  nano download22.py 
+  224  python3.11 download22.py 
+  225  ls -lrt *.m
+  226  nano agggrid.m 
+  227  cd /data/obs/reanalysis/ecmwf/era5/SFC/
+  228  ls
+  229  ls -lrt *.m
+  230  ls -lrt *2024*
+  231  pwd
+  232  nano summarizeyearERA5.m 
+  233  cp summarizeyearERA5.m /home/abatz/ERA5/
+  234  cd 
+  235  cd ERA5/
+  236  ls -lrt
+  237  nano summarizeyearERA5.m 
+  238  gedit summarizeyearERA5.m &
+  239  mv download_2025dew.nc download_dew_2025.nc
+  240  ls -lrt
+  241  mv download_2025t.nc download_t_2025.nc
+  242  mv download_2025p.nc download_p_2025.nc
+  243  ls -lrt *2025*
+  244  nano download22.py 
+  245  python3.11 download22.py 
+  246  cd /data/backups/home_pluvial_abatz/TerraClimate/WORLDCLIM/CLEANCODE/
+  247  ls -lrt
+  248  gedit runit_newyear_fromanom.m &
+  249  cd /data/obs/reanalysis/ecmwf/era5/SFC/
+  250  nano monthvals.m
+  251  ls -lrt *1975
+  252  ls -lrt *1976
+  253  ls -lrt *1978
+  254  ls -lrt *1980
+  255  ls -lrt *1981
+  256  ls
+  257  nano summarizeyearERA5.m 
+  258  cd /data/obs/reanalysis/ecmwf/era5/SFC/
+  259  ls -lrt
+  260  nano summarizeyearERA5.m 
+  261  top
+  262  cd /data/obs/reanalysis/ecmwf/era5
+  263  ls
+  264  cd SFC/
+  265  ls
+  266  matlab -nodesktop
+  267  ls -lrt
+  268  cd ERA5/
+  269  ls -lrt
+  270  nano summarizeyearERA5.m 
+  271  gedit summarizeyearERA5.m &
+  272  matlab -nodesktop
+  273  cd /data/obs/reanalysis/ecmwf/era5/SFC/
+  274  ls -lrt
+  275  nano monthvals.m 
+  276  cd /data/
+  277  ls
+  278  cd products
+  279  ls
+  280  cd ../projects/
+  281  ls
+  282  cd CROPS/
+  283  ls
+  284  pwd
+  285  cd 
+  286  mv coffee_suitability.mat /data/projects/CROPS/
+  287  top
+  288  ls -lrt
+  289  cd ERA5/
+  290  ls -lrt
+  291  nano download22.py 
+  292  python3.11 download22.py 
+  293  cd /data/backups/home_pluvial_abatz/TerraClimate/WORLDCLIM/CLEANCODE/
+  294  ls -lrt *.m
+  295  pwd
+  296  cd ERA5/
+  297  ls -lrt
+  298  python3.11 download22.py 
+  299  nano summarizeyearERA5.m 
+  300  ls -lrt
+  301  mv download_t_1976.nc /data/obs/reanalysis/ecmwf/era5/SFC/
+  302  cd /data/obs/reanalysis/ecmwf/era5/SFC/
+  303  ls -lrt *.m
+  304  nano summarizeyearERA5.m
+  305  cd /data/backups/home_pluvial_abatz/
+  306  ls -lrt
+  307  cd CROPS/
+  308  ls -lrt
+  309  nano coffeerun.m 
+  310  nano runbeans.m 
+  311  cd /data/obs/obs/gridded/terraclim/MAT/
+  312  ls
+  313  ls -lrt
+  314  mkdir OLD
+  315  ls *1958*
+  316  mv *1958* OLD/
+  317  mv *1959* OLD/
+  318  ls *1960*
+  319  mv *1960* OLD/
+  320  ls *1961*
+  321  ls *1961.mat OLD/
+  322  mv *1961.mat OLD/
+  323  mv *1962.mat OLD/
+  324  mv *1963.mat OLD/
+  325  mv *1964.mat OLD/
+  326  mv *1965.mat OLD/
+  327  mv *1966.mat OLD/
+  328  mv *1967.mat OLD/
+  329  mv *1968.mat OLD/
+  330  mv *1969.mat OLD/
+  331  mv *1971.mat OLD/
+  332  mv *1970.mat OLD/
+  333  mv *1972.mat OLD/
+  334  mv *1973.mat OLD/
+  335  mv *1974.mat OLD/
+  336  mv *1975.mat OLD/
+  337  mv *1976.mat OLD/
+  338  mv *1977.mat OLD/
+  339  mv *1978.mat OLD/
+  340  mv *1979.mat OLD/
+  341  mv *1980.mat OLD/
+  342  mv *1981.mat OLD/
+  343  mv *1982.mat OLD/
+  344  mv *1983.mat OLD/
+  345  mv *1984.mat OLD/
+  346  mv *1985.mat OLD/
+  347  mv *1986.mat OLD/
+  348  mv *1987.mat OLD/
+  349  mv *1988.mat OLD/
+  350  mv *1989.mat OLD/
+  351  mv *1999.mat OLD/
+  352  mv *1998.mat OLD/
+  353  mv *1997.mat OLD/
+  354  mv *1996.mat OLD/
+  355  mv *1995.mat OLD/
+  356  mv *1994.mat OLD/
+  357  mv *1993.mat OLD/
+  358  mv *1992.mat OLD/
+  359  mv *1991.mat OLD/
+  360  mv *1990.mat OLD/
+  361  mv *2000.mat OLD/
+  362  mv *2001.mat OLD/
+  363  mv *2002.mat OLD/
+  364  mv *2003.mat OLD/
+  365  mv *2004.mat OLD/
+  366  mv *2005.mat OLD/
+  367  mv *2006.mat OLD/
+  368  mv *2007.mat OLD/
+  369  mv *2009.mat OLD/
+  370  mv *2010.mat OLD/
+  371  mv *2011.mat OLD/
+  372  mv *2012.mat OLD/
+  373  mv *2013.mat OLD/
+  374  mv *2014.mat OLD/
+  375  mv *2015.mat OLD/
+  376  mv *2016.mat OLD/
+  377  mv *2017.mat OLD/
+  378  mv *2018.mat OLD/
+  379  mv *2019.mat OLD/
+  380  mv *2020.mat OLD/
+  381  mv *2021.mat OLD/
+  382  mv *2022.mat OLD/
+  383  mv *2023.mat OLD/
+  384  mv *2024.mat OLD/
+  385  ls
+  386  ls -lrt
+  387  cd /data/backups/home_pluvial_abatz/TerraClimate/WORLDCLIM/CLEANCODE/
+  388  ls -lrt
+  389  gedit runit_newyear_from_era5.m &
+  390  cd /data/obs/reanalysis/ecmwf/era5/SFC/
+  391  ls -lrt
+  392  ls -lrt
+  393  cd ERA5/
+  394  ls -lrt
+  395  cd /data/obs/reanalysis/ecmwf/era5/SFC/
+  396  ls -lrt *.m
+  397  ls -lrt
+  398  matlab -nodesktop
+  399  ls -lrt
+  400  cd /data/backups/home_pluvial_abatz/TerraClimate/WORLDCLIM/CLEANCODE/
+  401  cd /data/obs/obs/gridded/terraclim/MAT/
+  402  ls -lrt
+  403  cd /data/backups/home_pluvial_abatz/TerraClimate/WORLDCLIM/CLEANCODE/
+  404  ls -lrt
+  405  nano runit_newyear_from_era5.m 
+  406  cd /data/obs/obs/gridded/terraclim/MAT/
+  407  ls -lrt
+  408  cd OLD/
+  409  ls *2000.mat
+  410  mv climo_19702000.mat ../
+  411  ls -lrt
+  412  cd ..
+  413  ls -lrt
+  414  cd /data/backups/home_pluvial_abatz/TerraClimate/WORLDCLIM/CLEANCODE/
+  415  ls -lrt
+  416  matlab -nodesktop
+  417  cd /data/obs/obs/gridded/terraclim/MAT/
+  418  ls -lrt
+  419  cd /data/backups/home_pluvial_abatz/TerraClimate/WORLDCLIM/CLEANCODE/
+  420  ls -lrt
+  421  nano runit_newyear_from_era5.m 
+  422  ls -lrt
+  423  cd /data/obs/obs/gridded/terraclim/MAT/
+  424  ls -lrt
+  425  matlab -nodesktop
+  426  ls -lrt
+  427  cd Code
+  428  ls -lrt
+  429  nano *co2*
+  430  ls *co2*
+  431  nano monthlyPET_co2.m 
+  432  cd /data/backups/home_pluvial_abatz/TerraClimate/WORLDCLIM/CLEANCODE/
+  433  ls -lrt *.m
+  434  nano run_wb_continue_year.m 
+  435  nano run_pet3.m 
+  436  nano run_pet3a.m 
+  437  nano run_pet3.m 
+  438  cd /data/backups/home_pluvial_abatz/CALCULATIONS/
+  439  ls -lrt *.m
+  440  nano monthlyPET2.m 
+  441  cd SNOW/
+  442  ls
+  443  cd ..
+  444  nano monthlyPET_PM.m 
+  445  pwd
+  446  cd ../Code/
+  447  ls m*
+  448  nano monthlyPET_co2.m 
+  449  cd /home/abatz/Code/
+  450  ls
+  451  ls -lrt
+  452  nano monthlyPET_co2.m 
+  453  ls -lrt *.mat
+  454  ls -lrt
+  455  ls *co2*
+  456  nano co2_historical.txt
+  457  matlab -nodesktop
+  458  cd /data/backups/home_pluvial_abatz/TerraClimate/WORLDCLIM/CLEANCODE/
+  459  ls -lrt
+  460  nano run_wb_continue_year.m 
+  461  cd /data/backups/home_pluvial_abatz/CALCULATIONS/
+  462  ls -lrt *.m
+  463  nano hydro_tax_robase.m 
+  464  cd /data/backups/home_pluvial_abatz/TerraClimate/WORLDCLIM/CLEANCODE/
+  465  nano run_wb_continue_year.m 
+  466  cd /data/backups/home_pluvial_abatz/CALCULATIONS/
+  467  nano hydro_tax_robase.m 
+  468  cd /data/backups/home_pluvial_abatz/TerraClimate/WORLDCLIM/CLEANCODE/
+  469  nano run_wb_continue_year.m 
+  470  cd /data/backups/home_pluvial_abatz/CALCULATIONS/
+  471  nano hydro_tax_robase.m 
+  472  cd /data/backups/home_pluvial_abatz/TerraClimate/WORLDCLIM/CLEANCODE/
+  473  ls -lrt
+  474  nano run_wb_continue_year.m 
+  475  cd 
+  476  cd CMIP6/
+  477  ls -lrt
+  478  ls -lrt *.m
+  479  nano gcmsmooth.m 
+  480  cd /data/backups/home_pluvial_abatz/TerraClimate/WORLDCLIM/CLEANCODE/
+  481  ls -lrt
+  482  cd /data/backups/home_pluvial_abatz/Code/
+  483  ls -lrt
+  484  cd ../CALCULATIONS/
+  485  nano hydro_tax_robase.m 
+  486  cd /data/backups/home_pluvial_abatz/TerraClimate/WORLDCLIM/CLEANCODE/
+  487  ls -lrt
+  488  nano run_wb_continue_year.m 
+  489  pwd
+  490  ls -lrt
+  491  cd ../
+  492  cd ..
+  493  ls -lrt
+  494  cd ..
+  495  ls -lrt
+  496  cd NETCDF/
+  497  ls -lrt
+  498  cd ..
+  499  pwd
+  500  cd ..
+  501  ls
+  502  cd 
+  503  ls -lrt
+  504  cd CMIP6/
+  505  ls -lrt
+  506  ls -lrt *.m
+  507  nano make_terraclimate.m 
+  508  matlab -nodesktop
+  509  cd /data/obs/obs/gridded/terraclim/MAT/
+  510  ls -lrt
+  511  matlab -nodesktop
+  512  ls -lrt
+  513  rm java.log.*
+  514  cd /data/obs/obs/gridded/terraclim/MAT/
+  515  ls -lrt
+  516  matlab -nodesktop
+  517  cd /data/obs/obs/gridded/terraclim/MAT/
+  518  ls -lrt
+  519  pwd
+  520  ls *1970*
+  521  ls -lt *.mat
+  522  ls -lrt
+  523  matlab -nodesktop
+  524  ls -lrt
+  525  cd Code/
+  526  ls -lrt
+  527  cd /data/backups/home_pluvial_abatz/TerraClimate/WORLDCLIM/CLEANCODE/
+  528  ls -lrt
+  529  nano compareit.m 
+  530  gedit extractregion_terraclimate.m &
+  531  ls -lrt *.m
+  532  nano run_wb_continue22.m 
+  533  grep base *.m
+  534  pwd
+  535  ls
+  536  cd ..
+  537  ls
+  538  ls -lrt
+  539  grep base *.m
+  540  nano run_wb_2c_new.m 
+  541  ls -lrt
+  542  cd /data/backups/home_pluvial_abatz/
+  543  ls -lrt
+  544  pwd
+  545  cd TerraClimate/WORLDCLIM/CLEANCODE/
+  546  ls -lrt
+  547  cd /data/obs/obs/gridded/terraclim/MAT/
+  548  ls -lrt
+  549  cd /data/backups/home_pluvial_abatz/TerraClimate/WORLDCLIM/CLEANCODE/
+  550  ls -lrt
+  551  matlab -nodesktop
+  552  cd /data/fire/Fsim/observations/
+  553  ls -lrt
+  554  nano smokespread.m 
+  555  nano runsmoke_all2.m 
+  556  cd 
+  557  cd /data/backups/home_pluvial_abatz/
+  558  ls -lrt
+  559  cd TerraClimate/WORLDCLIM/
+  560  ls -lrt
+  561  cd CLEANCODE/
+  562  ls -lrt
+  563  nano extractregion_terraclimate.m 
+  564  ls -lrt
+  565  rm java.log.*
+  566  cd /data/backups/home_pluvial_abatz/
+  567  ls -lrt
+  568  cd TerraClimate/WORLDCLIM/CLEANCODE/
+  569  ls -lrt
+  570  cd /data/obs/reanalysis/ecmwf/era5/SFC/
+  571  ls
+  572  ls -lrt *1950*
+  573  matlab -nodesktop
+  574  cd ERA5/
+  575  ls -lrt
+  576  nano download22.py 
+  577  python3.11 download22.py 
+  578  ls -lrt
+  579  cd ERA5/
+  580  ls -lrt
+  581  cd ../CMIP6/
+  582  ls -lrt
+  583  nano gcmsmooth.m 
+  584  nano filtit.m 
+  585  nano gcmsmooth.m 
+  586  matlab -nodesktop
+  587  cd ERA5/
+  588  ls -lrt
+  589  python3.11 download22.py 
+  590  ls -lrt
+  591  matlab -nodesktop
+  592  ls -lrt
+  593  nano download22.py 
+  594  python3.11 download22.py 
+  595  nano download22.py 
+  596  python3.11 download22.py 
+  597  ls -lrt
+  598  cd ERA5/
+  599  ls -lrt
+  600  matlab -nodesktop
+  601  cd ERA5/
+  602  ls -lrt
+  603  ls *1950*
+  604  mv *1950* /data/obs/reanalysis/ecmwf/era5/SFC/
+  605  cd  /data/obs/reanalysis/ecmwf/era5/SFC/
+  606  ls -lrt
+  607  mv download_rsds_1950.nc download_ssrd_1950.nc
+  608  ls *1951*
+  609  ls *1950*
+  610  mv download_p_1950.nc download_1950.nc
+  611  ls *2025*
+  612  ls *2024*
+  613  nano summarizeyearERA5.m
+  614  ls *1950*
+  615  ls *1951*
+  616  nano summarizeyearERA5.m
+  617  ls -lrt
+  618  nano monthvals.m 
+  619  cd /data/backups/home_pluvial_abatz/
+  620  ls -lrt
+  621  cd /data/backups/home_pluvial_abatz/TerraClimate/WORLDCLIM/CLEANCODE/
+  622  ls -lrt
+  623  nano runit_newyear_from_era5.m 
+  624  ls -lrt
+  625  nano run_pet3.m 
+  626  nano run_wb_continue_year.m 
+  627  cd /data/obs/obs/gridded/terraclim/MAT/
+  628  ls -lrt
+  629  cd /data/backups/home_pluvial_abatz/TerraClimate/WORLDCLIM/CLEANCODE/
+  630  ls -lrt
+  631  nano run_wb_continue_year.m 
+  632  matlab -nodesktop
+  633  ls -lrt
+  634  cd /data/backups/home_pluvial_abatz/TerraClimate/WORLDCLIM/CLEANCODE/
+  635  ls -lrt
+  636  nano extractregion_terraclimate.m 
+  637  cd /data/obs/obs/gridded/terraclim/MAT/
+  638  ls -lrt *vpd*
+  639  ls -lrt
+  640  cd CMIP6/
+  641  ls -lrt
+  642  cd /data/backups/home_pluvial_abatz/TerraClimate/WORLDCLIM/CLEANCODE/
+  643  ls -lrt
+  644  pwd
+  645  cd ../
+  646  cd CLEANCODE/
+  647  nano runit_newyear_fromanom.m 
+  648  nano runvpd.m 
+  649  nano runit_newyear_fromanom.m 
+  650  nano run_pet3.m 
+  651  nano runit_newyear_fromanom.m 
+  652  grep vpd *.m
+  653  s -lrt
+  654  ls -lrt
+  655  nano runit_newyear_from_era5.m 
+  656  cd /data/backups/home_pluvial_abatz/TerraClimate/
+  657  ls -lrt
+  658  cd WORLDCLIM/
+  659  ls -lrt
+  660  cd PDSI/
+  661  ls -lrt
+  662  nano runPDSI.m 
+  663  nano runPDSI_t.m 
+  664  ls -lrt
+  665  nano gatherPDSI2.m 
+  666  matlab -nodesktop
+  667  top
+  668  cd /data/obs/obs/gridded/terraclim/MAT/
+  669  ls -lrt
+  670  cd /data/backups/home_pluvial_abatz/DROUGHT/
+  671  ls -lrt
+  672  cd ../TerraClimate/WORLDCLIM/PDSI/
+  673  ls -lrt
+  674  nano gatherPDSI2.m 
+  675  ls -lrt
+  676  cd /data/backups/home_pluvial_abatz/DROUGHT/
+  677  ls -lrt
+  678  cd /data/backups/home_pluvial_abatz/
+  679  ls -lrt
+  680  cd DROUGHT/
+  681  ls -lrt
+  682  mv PDSI_19* /data/obs/obs/gridded/terraclim/MAT/
+  683  mv PDSI_20* /data/obs/obs/gridded/terraclim/MAT/
+  684  cd /data/backups/home_pluvial_abatz/
+  685  ls
+  686  ls -lrt
+  687  cd LDEO/
+  688  ls
+  689  ls -lrt
+  690  cd ANALOGS/
+  691  ls
+  692  ls -lrt
+  693  nano makeanalogdata1_Sean.m 
+  694  cd /data/obs/obs/gridded/terraclim/MAT/
+  695  ls -lrt *climo*
+  696  ls -lrt
+  697  cd CMIP6/
+  698  ls -lrt
+  699  ls -lrt *.m
+  700  nano scaleF.m 
+  701  cd /data/backups/home_pluvial_abatz/LDEO/ANALOGS/
+  702  ls -lrt
+  703  nano makeanalogdata1_Sean.m 
+  704  nano makeanalogdata.m 
+  705  nano makeanalogdata1.m 
+  706  cd 
+  707  cd CMIP6/
+  708  nano scaleF.m 
+  709  grep dew *.m
+  710  nano dewpoint.m 
+  711  cd ../Code/
+  712  ks
+  713  ls
+  714  grep vap *.m
+  715  cd ../CMIP6/
+  716  nano dewpoint.m 
+  717  ls -lt *.m
+  718  nano runmonthCMIP6.m 
+  719  nano getCMIP6daily.m 
+  720  nano scaleF.m 
+  721  cd /data/obs/
+  722  ls
+  723  cd ..
+  724  ls
+  725  cd projects/
+  726  ls
+  727  cd ../products/
+  728  ls
+  729  cd firedanger/
+  730  ls -lrt
+  731  cd FWI/
+  732  ls -lrt
+  733  ls
+  734  cd ..
+  735  ls
+  736  pwd
+  737  ls
+  738  cd ERA5/
+  739  ls
+  740  ls -lrt
+  741  cd /data/backups/home_pluvial_abatz/NETCDF/
+  742  ls -lrt
+  743  ls fwi*
+  744  matlab -nodesktop
+  745  ls  fwi*
+  746  pwd
+  747  ls -lrt
+  748  pwd
+  749  cd 
+  750  cd /data/code/PROJECTS/
+  751  ls
+  752  cd TERRACLIMATE/
+  753  s
+  754  ls
+  755  cd MAKE_NETCDFS/
+  756  ls -lrt
+  757  cd ../
+  758  ls -lrt
+  759  cd MAKE_NETCDFS/
+  760  ls -lrt
+  761  cd ..
+  762  ls -lrt
+  763  mkdir CREATE_TERRACLIMATE
+  764  rmdir CREATE_TERRACLIMATE/
+  765  mkdir create_terra
+  766  cd create_terra/
+  767  ls
+  768  mkdir counterfactual
+  769  mkdir future
+  770  mkdir observational
+  771  cd observational/
+  772  ls -lrt
+  773  ls
+  774  cd ../
+  775  mkdir common_function
+  776  cd observational/
+  777  ls
+  778  mv monthlyPET_co2.m runsnow.m ../common_function/
+  779  ls
+  780  ls -lrt
+  781  cd ..
+  782  ls -lrt
+  783  cd counterfactual/
+  784  ls
+  785  mv make_terraclimate.m make_terraclimate_counterfactual.m
+  786  nano make_terraclimate_counterfactual.m 
+  787  ls
+  788  mv make_terraclimate_counterfactual.m ../
+  789  cd ..
+  790  ls -lrt
+  791  cd future/
+  792  ls
+  793  mv make_terraclimate_future.m ../
+  794  ls
+  795  ls -lrt
+  796  cd ..
+  797  rmdir future/ counterfactual/
+  798  ls -lrt
+  799  nano run_pet3.m 
+  800  ls -lrt
+  801  nano run_pet3.m 
+  802  rm run_pet3.m 
+  803  nano run_vpd_pet.m 
+  804  nano make_terraclimate_counterfactual.m 
+  805  nano run_vpd_pet.m 
+  806  ls -lrt
+  807  nano run_vpd_pet.m 
+  808  mv run_vpd_pet.m run_vpd_pet_counterfactual_future.m 
+  809  nano run_wb_terra.m 
+  810  nano run_wb_terra_counterfactual_future.m
+  811  mv run_wb_terra.m run_wb_terra_counterfactual_future.m
+  812  ls -lrt
+  813  cd common_function/
+  814  ls
+  815  mv * ../
+  816  ls -lrt
+  817  cd ..
+  818  rm common_function/
+  819  rmdir common_function/
+  820  cd observational/
+  821  ls -lrt
+  822  mv * ../
+  823  ls -lrt
+  824  cd ..
+  825  ls -lrt
+  826  rmdir observational/
+  827  ls -lrt
+  828  mv run_pet3.m run_pet_obs.m
+  829  mv runit_newyear_from_era5.m make_terraclimate_obs.m
+  830  ls -lrt
+  831  nano make_terraclimate_counterfactual.m 
+  832  cd /data/obs/reanalysis/ecmwf/era5/SFC/
+  833  ls -lrt
+  834  nano summarizeyearERA5.m
+  835  pwd
+  836  cd 
+  837  cd ERA5/
+  838  ls -lrt
+  839  nano download22.py 
+  840  cp download22.py /data/code/PROJECTS/TERRACLIMATE/
+  841  cd /data/obs/reanalysis/ecmwf/era5/SFC/
+  842  ls -lrt
+  843  nano summarizeyearERA5.m
+  844  nano monthvals.m 
+  845  nano summarizeyearERA5.m
+  846  cd /data/code/PROJECTS/TERRACLIMATE/
+  847  ls -lrt
+  848  mv download22.py create_terra/
+  849  cd create_terra/
+  850  ls -lrt
+  851  nano readme.txt 
+  852  cd /data/backups/home_pluvial_abatz/TerraClimate/
+  853  ls
+  854  cd WORLDCLIM/
+  855  ls
+  856  cd CLEANCODE/
+  857  ls -lrt
+  858  nano runit_newyear_from_era5.m 
+  859  cp runit_newyear_from_era5.m /data/code/PROJECTS/TERRACLIMATE/create_terra/observational/
+  860  nano run_pet3.m 
+  861  cp run_pet3.m /data/code/PROJECTS/TERRACLIMATE/create_terra/observational/
+  862  nano run_pet3.m 
+  863  cd /home/abatz/Code/
+  864  ls -lrt
+  865  cp annual_co2.mat /data/code/PROJECTS/TERRACLIMATE/create_terra/observational/
+  866  ls *.m
+  867  cp monthlyPET_co2.m /data/code/PROJECTS/TERRACLIMATE/create_terra/observational/
+  868  ls *snow*
+  869  cp runsnow.m /data/code/PROJECTS/TERRACLIMATE/create_terra/observational/
+  870  ls
+  871  cd /data/backups/home_pluvial_abatz/TerraClimate/WORLDCLIM/
+  872  ls -lrt
+  873  cd CLEANCODE/
+  874  ls -lrt
+  875  ls -lrt *.m
+  876  nano runvpd.m 
+  877  cd ..
+  878  ls -lrt
+  879  cd PDSI/
+  880  ls -lrt
+  881  nano runPDSI.m 
+  882  cp runPDSI.m  /data/code/PROJECTS/TERRACLIMATE/create_terra/observational/
+  883  cp gatherPDSI2.m /data/code/PROJECTS/TERRACLIMATE/create_terra/observational/
+  884  ls -lrt
+  885  pwd
+  886  cd /home/abatz/CMIP6/
+  887  ls -lrt
+  888  ls -lrt *.m
+  889  cp make_terraclimate.m /data/code/PROJECTS/TERRACLIMATE/create_terra/counterfactual/
+  890  cp make_terraclimate_future.m /data/code/PROJECTS/TERRACLIMATE/create_terra/future/
+  891  ls
+  892  ls -lrt *.m
+  893  cp run_wb_terra.m /data/code/PROJECTS/TERRACLIMATE/create_terra/
+  894  cp run_vpd_pet.m /data/code/PROJECTS/TERRACLIMATE/create_terra/
+  895  cp run_pet3.m /data/code/PROJECTS/TERRACLIMATE/create_terra/
+  896  ls -lrt *.mat
+  897  ls -lt *.mat
+  898  cp global_smooth2.mat /data/code/PROJECTS/TERRACLIMATE/create_terra/
+  899  cp scalefactorCMIP6.mat /data/code/PROJECTS/TERRACLIMATE/create_terra/
+  900  cd /data/users/katherine/DATASETS/TERRACLIMATE
+  901  ls
+  902  cd MAKE_CLIMOS/
+  903  ls
+  904  ls -lrt
+  905  nano terraclimateClimo.m 
+  906  ls -lrt
+  907  cd ..
+  908  ls
+  909  cd MAKE_
+  910  cd MAKE_NETCDFS/
+  911  ls
+  912  nano readme.txt 
+  913  cd 
+  914  cd /data/code/PROJECTS/
+  915  ls
+  916  cd TERRACLIMATE/
+  917  ls
+  918  cd create_terra/
+  919  nano readme.txt
+  920  matlab -nodesktop
+  921  cd SJV/
+  922  ls
+  923  ls -lrt *.mat
+  924  matlab -nodesktop
+  925  ls -lrt
+  926  cd SJV/
+  927  ls -lrt *.m
+  928  nano calcETo.m 
+  929  nano extractclimate_subregion.m 
+  930  nano calcETo.m 
+  931  nano extractclimate_subregion.m 
+  932  nano calcETo.m 
+  933  ls -lrt
+  934  nano calcETo.m 
+  935  nano extractclimate_subregion.m 
+  936  ls -lrt
+  937  cd CAH2O/
+  938  ls -lrt
+  939  gedit process_cah2o_ensemble_update.m &
+  940  matlab -nodesktop
+  941  ls -lrt
+  942  matlab -nodesktop
+  943  cd CAH2O/
+  944  ls -lrt
+  945  nano cron_run_water_year_index.cron 
+  946  nano process_cah2o_ensemble_update.m 
+  947  cd /data/code/PROJECTS/DOWNSCALING/
+  948  ls
+  949  cd MACAPROJECTS/
+  950  ls
+  951  cd MACAV3-ERA5LAND
+  952  ls -lrt
+  953  cd MACA_DERIVED/
+  954  ls
+  955  cd ../
+  956  ls -lrt
+  957  cd pwd
+  958  cd ../
+  959  ls
+  960  cd MACAV3-ERA5LAND
+  961  ls
+  962  matlab -nodesktop
+  963  cd /data/code/PROJECTS/DOWNSCALING/DOWNSCALEMETHODS/MACAv3/MACAv3_jointCA/METHOD/PPT_CORRECTION/
+  964  ls -lrt
+  965  nano biascorrect_ppt_extremes.m 
+  966  nano adjust_data_with_gev_distribution.m 
+  967  nano biascorrect_ppt_extremes.m 
+  968  nano adjust_data_with_gev_distribution.m 
+  969  nano biascorrect_ppt_extremes.m 
+  970  nano adjust_data_with_gev_distribution.m 
+  971  nano biascorrect_ppt_extremes.m 
+  972  nano estimate_ratios_from_gevs.m 
+  973  nano ratiogev.m 
+  974  nano estimate_ratios_from_gevs.m 
+  975  nano biascorrect_ppt_extremes.m 
+  976  nano estimate_ratios_from_gevs.m 
+  977  nano biascorrect_ppt_extremes.m 
+  978  nano estimate_ratios_from_gevs.m 
+  979  nano ratiogev.m 
+  980  nano estimate_ratios_from_gevs.m 
+  981  nano biascorrect_ppt_extremes.m 
+  982  ls -lrt
+  983  nano estimate_ratios_from_gevs.m 
+  984  nano biascorrect_ppt_extremes.m 
+  985  nano estimate_ratios_from_gevs.m 
+  986  nano ratiogev.m 
+  987  nano asymptote.m
+  988  ls -lrt
+  989  nano biascorrect_ppt_extremes.m 
+  990  ls -lrt
+  991  cd CAH2O/
+  992  ls -lrt
+  993  cd /snow/PROJECTS/MACAv3/
+  994  ls
+  995  cd /data/code/PROJECTS/DOWNSCALING/DOWNSCALEMETHODS/MACAv3/MACAv3_jointCA/METHOD/PPT_CORRECTION/
+  996  ls -lrt
+  997  nano biascorrect_ppt_extremes.m 
+  998  ls -lrt
+  999  nano estimate_ratios_from_gevs.m 
+ 1000  nano ratiogev.m 
+ 1001  cd /snow/PROJECTS/MACAv3/RUNS/maca_31dayBC_tmax_tmin_hursmax_hursmin_pr_rsds_uas_vas_tdew_was_MRI-ESM2-0_ssp245/
+ 1002  ls -lrt
+ 1003  sudo chmod 777 *updatedPR*
+ 1004  ls -lrt
+ 1005  pwd
+ 1006  cd 
+ 1007  cd /data/backups/home_pluvial_abatz/DROUGHT/
+ 1008  ls -lrt *.mat
+ 1009  mv PDSI_4C* /data/obs/obs/gridded/terraclim/MAT/4C/
+ 1010  mv PDSI_2C* /data/obs/obs/gridded/terraclim/MAT/2C/
+ 1011  mv PDSI_cf* /data/obs/obs/gridded/terraclim/MAT/COUNTERFACTUAL/
+ 1012  cd /snow/PROJECTS/MACAv3/RUNS/
+ 1013  ls -lrt
+ 1014  cd maca_31dayBC_tmax_tmin_hursmax_hursmin_pr_rsds_uas_vas_tdew_was_MRI-ESM2-0_ssp585/
+ 1015  ls -lrt
+ 1016  sudo chmod 777 *
+ 1017  pwd
+ 1018  ls -lrt
+ 1019  top
+ 1020  ls -lrt
+ 1021  pwd
+ 1022  top
+ 1023  cd 
+ 1024  cd mtbs_cdl/
+ 1025  ls -lrt
+ 1026  nano untitled2_w.m
+ 1027  gedit untitled2_w.m &
+ 1028  cd 
+ 1029  cd CAH2O/
+ 1030  ls -lrt
+ 1031  sudo matlab -nodesktop
+ 1032  hist
+ 1033  history
+ 1034  ls
+ 1035  nano cron_run_water_year_index.cron 
+ 1036  history
+ 1037  history > sdg
